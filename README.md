@@ -66,18 +66,8 @@ A API possui três endpoints principais:
 
 ## Estrutura do Projeto
 
-```
-src/
- └── main/
-     └── java/
-         └── com/
-             └── br/
-                 └── buildandrun/
-                     └── FirsApi/
-                         ├── controller/
-                         │   └── FirstApiController.java  # Controller principal para manipulação das tarefas
-                         └── FirsApiApplication.java      # Classe principal do Spring Boot
-```
+![Estrutura do Projeto](https://github.com/pedrohenriquebasilio/PrimeiraAPI/blob/master/Estrutura%20do%20projeto)
+
 
 ## Melhorias Futuras
 
